@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin splash screen app</string>
+    <string name="logo">logo</string>
+    <string name="lomusic">LoMusic</string>
+    <string name="username">Username</string>
+    <string name="wellcom_to_lomusic">Wellcom to LoMusic</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+</resources>
