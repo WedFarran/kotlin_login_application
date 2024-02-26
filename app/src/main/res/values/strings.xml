@@ -5,4 +5,12 @@
     <string name="username">Username</string>
     <string name="wellcom_to_lomusic">Wellcom to LoMusic</string>
     <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="password">Password</string>
+    <string name="signup">Signup</string>
+    <string name="Signin">Login</string>
+    <string name="you_don_t_have_an_account_signup">You don\'t have an account? Signup</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone number</string>
+    <string name="already_have_an_account_signin">Already have an account? signin</string>
 </resources>
