@@ -13,4 +13,12 @@
     <string name="email">Email</string>
     <string name="phone_number">Phone number</string>
     <string name="already_have_an_account_signin">Already have an account? signin</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="profile">Profile</string>
+    <string name="trending">Trending</string>
+    <string name="sign_out">Sign out</string>
+    <string name="wedfarran6_gmail_com">wedfarran6@gmail.com</string>
+    <string name="wed_farran">Wed Farran</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>

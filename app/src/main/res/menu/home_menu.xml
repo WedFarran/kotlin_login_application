@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/profile"
+          android:icon="@drawable/profile_icon"
+          android:id="@+id/profile"/>
+
+
+    <item android:title="@string/trending"
+          android:icon="@drawable/trending_icon"
+          android:id="@+id/trending"/>
+
+
+    <item android:title="@string/sign_out"
+          android:icon="@drawable/sign_out_icon"
+          android:id="@+id/sign_out"/>
+</menu>
