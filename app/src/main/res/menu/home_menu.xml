@@ -13,4 +13,6 @@
     <item android:title="@string/sign_out"
           android:icon="@drawable/sign_out_icon"
           android:id="@+id/sign_out"/>
+
+
 </menu>
